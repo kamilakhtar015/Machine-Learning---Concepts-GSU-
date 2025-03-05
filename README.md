@@ -2,7 +2,7 @@
 This repository contains assignments and practical implementations of Machine Learning basics.
 
 
-1 - Principal Component Analysis (PCA)
+# 1 - Principal Component Analysis (PCA)
 Principal Component Analysis (PCA) is a dimensionality reduction technique used to transform data into a new coordinate system, where the most significant variance lies along the principal components. It helps in reducing redundancy and improving interpretability while retaining essential patterns in the data.
 
 This notebook explores PCA using a small dataset with two characteristics. The following steps have been performed:
