@@ -19,7 +19,7 @@ The notebook includes visualizations of the original, normalized, and reconstruc
 
 
 
-3 - DNA Sequence Clustering using K-Means
+# 3 - DNA Sequence Clustering using K-Means
 
 This task demonstrates unsupervised clustering on DNA sequences using K-means. The dataset consists of 120 DNA sequences, each 264 nucleotides long.
 
