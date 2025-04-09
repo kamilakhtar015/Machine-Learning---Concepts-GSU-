@@ -16,3 +16,4 @@ Reconstruction: The projected data is transformed back to its original space to 
 The notebook includes visualizations of the original, normalized, and reconstructed data, along with computed eigenvalues and eigenvectors. This implementation provides insights into how PCA works and its effect on data transformation.
 
 # 2 - Image Segmentation using DeepLabV3+ model on CityScape Dataset.
+
