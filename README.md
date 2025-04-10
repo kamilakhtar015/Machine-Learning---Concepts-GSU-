@@ -18,6 +18,7 @@ The notebook includes visualizations of the original, normalized, and reconstruc
 # 2 - Image Segmentation using DeepLabV3+ model on CityScape Dataset.
 
 CityScape Dataset contains images and their masks.
+So a total of overall more than 6000 images are there.
 
 # 3 - DNA Sequence Clustering using K-Means
 
