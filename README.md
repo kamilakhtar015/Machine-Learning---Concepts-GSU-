@@ -24,8 +24,6 @@ So a total of overall more than 6000 images are there.
 
 This task demonstrates unsupervised clustering on DNA sequences using K-means. The dataset consists of 120 DNA sequences, each 264 nucleotides long.
 
-# 4 - CNNs on CIFAR 10 Dataset
-
 The steps include:
 
 - **FASTA Parsing**: DNA sequences are extracted from a `.fas` file, ensuring all are of equal length and contain only valid nucleotides (A, C, G, T).
@@ -36,3 +34,6 @@ The steps include:
 
 This project showcases how machine learning can be applied to biological sequence data for exploratory analysis and pattern discovery.
 
+
+
+# 4 - CNNs on CIFAR 10 Dataset
