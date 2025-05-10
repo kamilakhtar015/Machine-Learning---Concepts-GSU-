@@ -40,4 +40,4 @@ This project showcases how machine learning can be applied to biological sequenc
 
 
 # 4 - CNNs on CIFAR 10 Dataset
-With few hidden and normalization layers
+With few hidden and normalization layers to do the classification task.
